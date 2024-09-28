@@ -1,4 +1,4 @@
-# mentored_research2022
+# Forecasting Demand with Generalized Additive Models
 All of the code from my research project from the Fall 2022, using SKU data from Awatunai in Indonesia to forecast particular SKU's.
 There is no 'one size fits all' time-series forecasting method for any data, so here I try to examine which methods are best (from the ones I could get to run) for forecasting random walk time series forecasts.
 
